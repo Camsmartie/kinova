@@ -1,0 +1,8 @@
+prefix=/home/camden.nagg@compass-sys-inc.local/catkin_workspace/install
+
+Name: file_server
+Description: Description of file_server
+Version: 1.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: 

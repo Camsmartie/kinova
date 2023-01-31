@@ -1,0 +1,8 @@
+prefix=/home/camden.nagg@compass-sys-inc.local/catkin_workspace/install
+
+Name: laser_to_pcl
+Description: Description of laser_to_pcl
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

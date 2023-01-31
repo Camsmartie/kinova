@@ -1,0 +1,8 @@
+prefix=/home/camden.nagg@compass-sys-inc.local/catkin_workspace/install
+
+Name: byte_to_float
+Description: Description of byte_to_float
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

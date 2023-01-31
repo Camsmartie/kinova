@@ -1,0 +1,8 @@
+prefix=/home/camden.nagg@compass-sys-inc.local/catkin_workspace/devel
+
+Name: fanuc_m10ia_moveit_config_melodic
+Description: Description of fanuc_m10ia_moveit_config_melodic
+Version: 0.3.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,11 @@
+<launch>
+
+    <node type="laser_scan_assembler" pkg="laser_assembler" name="my_assembler">
+        <param name="max_scans" type="int" value="4000" />
+        <param name="fixed_frame" type="string" value="base_link"/>
+
+    </node>
+
+    <node type="laser2pc.py" pkg="laser_to_pcl" name="laser2pc"/>
+
+</launch>

@@ -1,0 +1,8 @@
+prefix=/home/camden.nagg@compass-sys-inc.local/catkin_workspace/devel
+
+Name: bezier_examples
+Description: Description of bezier_examples
+Version: 0.0.2
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: bezier fanuc_m10ia_moveit_config_melodic fanuc_m10ia_support moveit_ros_planning_interface roscpp roslaunch rviz_visual_tools tf tf_conversions visualization_msgs
